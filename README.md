@@ -1,4 +1,4 @@
-# Programação Orientada a Objeto
+# Programação Orientada a Objetos
 
 Prof. Eduardo Ono
 
@@ -6,4 +6,8 @@ Prof. Eduardo Ono
 
 ## Bibliografia
 
-* [DEITEL_2017] DEITEL, P. J. [Java: Como Programar, 10 ed.](https://plataforma.bvirtual.com.br/Acervo/Publicacao/2660), São Paulo: Pearson Prentice Hall, 2017.
+| Capa | Descrição |
+| :-: | --- |
+| <img src="./referencias/capas/deitel-10e_2017.jpg" alt="" width="150px"> | [DEITEL_2017]<br><br>DEITEL, Paul.; DEITEL, Harvey; [**Java: Como Programar, 10. ed.**](https://plataforma.bvirtual.com.br/Acervo/Publicacao/39590), São Paulo: Pearson Education do Brasil, 2017.
+
+<br>

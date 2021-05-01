@@ -1,4 +1,4 @@
-### Programação Orientada a Objeto
+> ### Programação Orientada a Objetos
 
 # Conteúdo
 
@@ -6,17 +6,17 @@ Prof. Eduardo Ono
 
 <br>
 
-## Conteúdo Programático
+## Sumário
 
 * Abstração
-    * Classes e Objetos
+  * Classes e Objetos
 * Encapsulamento
-    * Métodos Getters e Setters
+  * Métodos Getters e Setters
 * Herança
-    * Herança Simples e Herança Múltipla
-    * Classes Derivadas
+  * Herança Simples e Herança Múltipla
+  * Classes Derivadas
 * Polimorfismo
-    * Sobrecarga de Métodos
+  * Sobrecarga de Métodos
 
 <br>
 
