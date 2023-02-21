@@ -1,19 +1,18 @@
-> ### Programação Orientada a Objetos
+&nbsp;
 
-# Conteúdo
+<h1 align="center">Conteúdo</h1>
 
-Prof. Eduardo Ono
+<h4 align="center">Prof. Eduardo Ono</h4>
 
-<br>
+&nbsp;
 
 ## Sumário
 
-* ### [Overview](./00-overview/)
+* ### [Overview](./overview.md)
+
+* ### Paradigmas de Programação
 
 * ### [Fundamentos](./01-fundamentos/)
 
-* ### POO em Java
+&nbsp;
 
-* ### POO em C++
-
-<br>
